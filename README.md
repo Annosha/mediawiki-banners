@@ -86,7 +86,6 @@ const generateWikitext = (bannerData) => {
 | start   = ${bannerData.startDate}
 | end     = ${bannerData.endDate}
 }}`;
-};
 ```
 
 ## 📦 Dependencies
