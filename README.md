@@ -5,7 +5,7 @@
 
 **A React-based tool for creating MediaWiki banners with export capabilities**, developed as part of Wikimedia's Outreachy program contributions. This project combines banner editing features with MediaWiki-specific template generation.
 
-**Live Demo:** [https://annosha.github.io/wiki-media-banner/](https://annosha.github.io/mediawiki-banners/)  
+**Live Demo:** [https://annosha.github.io/mediawiki-banner/](https://annosha.github.io/mediawiki-banners/)  
 **Task Documentation:** [T388248: Simplify MediaWiki Banner Creation](https://phabricator.wikimedia.org/T388248)
 
 
