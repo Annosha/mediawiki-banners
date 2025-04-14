@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mediawiki-banners/static/css/main.eecb74f0.css",
+    "main.js": "/mediawiki-banners/static/js/main.94307834.js",
+    "static/js/453.5296ef74.chunk.js": "/mediawiki-banners/static/js/453.5296ef74.chunk.js",
+    "index.html": "/mediawiki-banners/index.html",
+    "main.eecb74f0.css.map": "/mediawiki-banners/static/css/main.eecb74f0.css.map",
+    "main.94307834.js.map": "/mediawiki-banners/static/js/main.94307834.js.map",
+    "453.5296ef74.chunk.js.map": "/mediawiki-banners/static/js/453.5296ef74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eecb74f0.css",
+    "static/js/main.94307834.js"
+  ]
+}
