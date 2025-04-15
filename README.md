@@ -27,6 +27,8 @@ This project addresses **Wikimedia Outreachy Task T388248** aiming to:
 - [🛠️ MediaWiki Integration Layer](#️-mediawiki-integration-layer)
 - [📦 Dependencies](#-dependencies)
 - [⚙️ Project Setup](#️-setup)
+- [🛠️ Technology Stack](#️-technology-stack)
+- [🛠️ Supporting Libraries](#️-supporting-libraries)
 
 ---
 
@@ -141,7 +143,7 @@ yarn start
 | CSS Modules        | 3.5.0     | Component Styling                 |
 | react-i18next      | 12.3.0    | Internationalization              |
 
-### Supporting Libraries
+### 🛠️ Supporting Libraries
 
 ```json
 {
